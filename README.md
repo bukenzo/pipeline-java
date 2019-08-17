@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/bukenzo0615/bukenzo/_apis/build/status/bukenzo.pipeline-java?branchName=master)](https://dev.azure.com/bukenzo0615/bukenzo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
